@@ -1,14 +1,16 @@
 ---
 title: "A few of my favorite things"
-author: "Alexandra Hurtado Desaulniers"
+author: "Jeanette Cook"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - My cat
+ - Cinnamon rolls
+ - Sour patch kids
+ - Audiobooks
+- Origami
+- watching scary movies
  
- 🎮 - by student choice
+ 🤠 - by student choice
